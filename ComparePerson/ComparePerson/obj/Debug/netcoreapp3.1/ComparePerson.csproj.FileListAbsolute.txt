@@ -1,0 +1,13 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\bin\Debug\netcoreapp3.1\ComparePerson.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\bin\Debug\netcoreapp3.1\ComparePerson.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\bin\Debug\netcoreapp3.1\ComparePerson.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\bin\Debug\netcoreapp3.1\ComparePerson.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\bin\Debug\netcoreapp3.1\ComparePerson.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\bin\Debug\netcoreapp3.1\ComparePerson.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\obj\Debug\netcoreapp3.1\ComparePerson.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\obj\Debug\netcoreapp3.1\ComparePerson.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\obj\Debug\netcoreapp3.1\ComparePerson.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\obj\Debug\netcoreapp3.1\ComparePerson.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\obj\Debug\netcoreapp3.1\ComparePerson.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\obj\Debug\netcoreapp3.1\ComparePerson.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Generic, PersonCompare\ComparePerson\ComparePerson\obj\Debug\netcoreapp3.1\ComparePerson.genruntimeconfig.cache
